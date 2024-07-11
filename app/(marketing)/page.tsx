@@ -79,18 +79,6 @@ const MarketinPage = () => {
 
         </div>
             <div className='mx-96 flex flex-col items-center justify-center text-center'>
-            
-            <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-            
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sit voluptates quo deleniti alias. Cumque quisquam, tempora a beatae minus dolorum, optio impedit in autem pariatur dolores cum numquam ea!</p>
-                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-            
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sit voluptates quo deleniti alias. Cumque quisquam, tempora a beatae minus dolorum, optio impedit in autem pariatur dolores cum numquam ea!</p>
-                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-           
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sit voluptates quo deleniti alias. Cumque quisquam, tempora a beatae minus dolorum, optio impedit in autem pariatur dolores cum numquam ea!</p>
-                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-           
             </div>
           
            
